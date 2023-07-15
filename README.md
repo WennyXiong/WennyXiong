@@ -5,7 +5,7 @@
 
 ### 🙋‍♀️&nbsp; About Me
 
-* 🌟 I'm a passionate software engineer and problem solver
+* 🌟 I'm a passionate software engineer and problem solver with expertise in full-stack development and a passion for crafting seamless user experiences. Committed to providing seamless user experiences and leveraging keen problem-solving skills to deliver innovative software solutions
 * 📍 Currently based in New York, NY
 * 🧡 Love traveling 🏖 and learn the fun facts of everywhere I go
 
